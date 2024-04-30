@@ -1,10 +1,10 @@
 {
-  "name": "Venocyber-md",
-  "description": "Hi there, I am Venocyber Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t i am from tz 🇹🇿 who brings you into one chuddy buddy now you're all in one chuddy buddy enjoy Incase of Any Problem Whatsapp me on: +255698101622",
-  "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
-  "keywords": ["whatsappbot", "VenocyberMd", "Venocyber Md bot", "Venocyber-Md", "VenocyberMdWhatsaooBot", "VenocyberWaBot","VenocyberMD","Venocyber Md Whatsapp Bot","multi device"],
+  "name": "SHaYan-AFriDi",
+  "description": "Hi there, I am SHaYan-AFriDi Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t i am from tz 🟣 who brings you into one chuddy buddy now you're all in one chuddy buddy enjoy Incase of Any Problem Whatsapp me on: +923140529832",
+  "logo": "https://telegra.ph/file/c68cf8fda9e777137b5b8.jpg",
+  "keywords": ["whatsappbot", "SHaYan-AFriDi", "SHaYan-AFriDi bot", "SHaYan-AFriDi", "SHaYan-AFriDiWhatsaooBot", "SHaYan-AFriDiWaBot","SHaYan-AFriDi","SHaYan-AFriDi Whatsapp Bot","multi device"],
   "success_url": "/",
-  "app_url": "/suhail/",
+  "app_url": "/AFriDi/",
   
   "env": {
     "OWNER_NAME": {
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝛁𝚵𝚴𝚯𝐂𝐘𝚩𝚵𝚪 𝚳𝐃"
+      "value": "SHaYan AFriDi"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg"
+      "value": "https://telegra.ph/file/c68cf8fda9e777137b5b8.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "255698101622"
+      "value": "923140529832"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -137,7 +137,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝛁𝚵𝚴𝚯𝐂𝐘𝚩𝚵𝚪 𝚳𝐃🇹🇿",
+      "value": "SHaYan AFriDi✅",
       "required": true 
     }
   }, 
@@ -147,8 +147,8 @@
     } 
   ],
   "buildpacks": [
-    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
+    { "url": "https://github.com/QXS-871" },
+    { "url": "https://github.com/QXS-871" }
   ],
   "formation": {
       "web": {

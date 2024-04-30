@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> SHaYan-AFriDi </h1> 
+<h1 align="center"> SHaYan AFriDi </h1> 
 <p align="center"> Introducing SHaYan-AFriDi, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -12,7 +12,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md">
+  <a href="https://github.com/QXS-871">
     <img alt="venocyber docs" height="300" src="https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg">
   </a>
 </p>
@@ -22,21 +22,21 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
+  <a href="https://wa.me/+923140529832?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+SHaYan-AFriDi+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
-    <img alt="Venocybertech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="SHaYan-AFriDi is free to use" href="https://github.com/QXS-871" target="_blank">
+    <img alt="SHaYan-AFriDi" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingjux}/count.svg" alt="Venocyber-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kingjux}/count.svg" alt="SHaYan-AFriDi :: Visitor's Count" /></p>
 ---
 
 
 
 
-<p align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 uses
+<p align="center"> SHaYan-AFriDi uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md"><b>Venocyber-md</b></a> Support Deploy On...
+  <a href="https://github.com/QXS-871"><b>SHaYan-AFriDi</b></a> Support Deploy On...
 </p>
 
 <p align="center">

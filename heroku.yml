@@ -1,6 +1,6 @@
 build:
   docker:
-      web: Suhail_Md
+      web: SuLiMaN_AFriDi
 run:
   web: npm start
  

@@ -1,24 +1,24 @@
 #=============================================#
-#                 v.1.2.9                     #  
+#                 v.3.1.0                     #  
 # █▀▀▀█ █  █ █  █ ▄▀▀▄ ▀█▀ █     █▀▄▀█ █▀▀▄   #
 # ▀▀▀▄▄ █  █ █▀▀█ █▄▄█  █  █     █ █ █ █  █   #
 # █▄▄▄█ ▀▄▄▀ █  █ █  █ ▄█▄ █▄▄█  █   █ █▄▄▀   #
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
-#    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
-#    * @version 1.2.9
+#    * @project_name : SHaYan-AFriDi
+#    * @author : @SuLiMan AFridi
+#    * @Whatsapp Group : https://chat.whatsapp.com/KSPfEzy2fpcAZT89AifEmb
+#    * @description : SHaYan-AFriDi ,A Multi-functional whatsapp bot md.
+#    * @version 3.1.0
 # 
-# Don't change this [ /SuhailTechInfo/ ] name!
+# Don't change this [ /Shayan-Afridi/ ] name!
 # Change from below link, else bot not works!
 
   
 
-FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone https://github.com/Itxxwasi/Suhail-Md /root/Itxxwasi
+FROM quay.io/shayan-afridi/shayan-v2
+RUN git clone https://github.com/QXS-871
 WORKDIR /root/Itxxwasi
 RUN npm install
 EXPOSE 8000

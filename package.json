@@ -1,17 +1,17 @@
 {
-   "name": "Venocyber-md",
+   "name": "SHaYan-AFriDi",
    "version": "1.0.0",
-   "description": "Multi device whatsapp bot by Kingjux.",
+   "description": "Multi device whatsapp bot by AFriDi.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Kingjux || node lib/smd.js",
-            "start": "pm2 start lib/smd.js --attach --name Kingjux || node lib/smd.js",
+            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name AFriDi || node lib/smd.js",
+            "start": "pm2 start lib/smd.js --attach --name AFriDi || node lib/smd.js",
             "stop": "pm2 stop Kingjux",
-            "heroku-postbuild": "git clone https://github.com/kingjux/Venocyber-md.git temp1 && mv temp1/.git .git && rm -rf temp1"
+            "heroku-postbuild": "git clone https://github.com/QXS-871.git temp1 && mv temp1/.git .git && rm -rf temp1"
    },
-   "author": "VenocyberTech",
-   "license" :"Apache-2.0",
+   "author": "SuLiMaN-AFriDi",
+   "license" :"AFriDi-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
              "@hapi/boom": "^9.1.4",
@@ -72,8 +72,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/kingjux/Venocyber-md.git"
+      "url": "git+https://github.com/QXS-871.git"
    },
-   "bugs": { "url": "https://github.com/kingjux/Venocyber-md/issues" },
-   "homepage": "https://github.com/kingjux/Venocyber-md#readme"
+   "bugs": { "url": "https://github.com/QXS-871/issues" },
+   "homepage": "https://github.com/QXS-871#readme"
 }
